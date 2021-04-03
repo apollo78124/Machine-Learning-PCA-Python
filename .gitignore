@@ -2,3 +2,8 @@
 /shelf/
 /workspace.xml
 */Lib/*
+/Lib/*
+*/Lib/
+/Lib/
+PresentData/venv/Lib/
+Dimensionality/venv/Lib/
